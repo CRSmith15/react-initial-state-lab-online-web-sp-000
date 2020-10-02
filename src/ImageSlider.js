@@ -2,5 +2,5 @@
 import React, { Components } from 'react';
 
 export default class ImageSlider extends Components {
-  
+
 }
